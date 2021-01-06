@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/date.iml" filepath="$PROJECT_DIR$/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordcloud.iml" filepath="$PROJECT_DIR$/.idea/wordcloud.iml" />
     </modules>
   </component>
 </project>
