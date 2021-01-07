@@ -27,6 +27,8 @@ git add *
 提交改动
 git commit -m "我写了工作步骤"
 
-推送改动
+更新到最新状态
+git pull
 
+推送改动
 git push origin master
