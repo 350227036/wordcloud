@@ -13,7 +13,8 @@ git config --global user.name "kerin"
 git config --global user.email "350227036@qq.com"
 
 检出仓库
-git clone https://github.com/350227036/wordcloud.git
+#git clone https://github.com/350227036/wordcloud.git
+git clone git@github.com:350227036/wordcloud.git
 
 进入项目目录
 cd wordcloud
@@ -27,8 +28,9 @@ git add *
 提交改动
 git commit -m "我写了工作步骤"
 
-更新到最新状态
-git pull
+更新到最新状态 
+git pull 
+wq 退出vi
 
 推送改动
 git push origin master
