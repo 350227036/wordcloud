@@ -1,0 +1,30 @@
+ ssh-keygen -t rsa -C "350227036@qq.com"
+三次回车
+查看密钥
+cat ~/.ssh/id_rsa.pub
+将ssh 密钥 复制到github个人账号的ssh key中  见图1
+
+测试ssh
+ssh -T git@github.com
+输入yes
+
+配置Git
+git config --global user.name "kerin"
+git config --global user.email "350227036@qq.com"
+
+检出仓库
+git clone https://github.com/350227036/wordcloud.git
+
+进入项目目录
+cd wordcloud
+
+添加文件
+git add *
+
+提交改动
+
+git commit -m "我写了工作步骤"
+
+推送改动
+
+git push origin master
