@@ -24,7 +24,7 @@ public class SinaTopClickNews {
 	public static final String url_prefix = "http://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=";
 	public static final String url_suffix = "&top_show_num=100&top_order=DESC&js_var=all_1_data01";
 	public static final String start_date = "2020-08-01";
-	public static final String end_date = "2020-08-30";
+	public static final String end_date = "2020-08-31";
 
 	public static void main(String[] args) {
 		DateIncrease();
