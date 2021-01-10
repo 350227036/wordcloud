@@ -23,8 +23,8 @@ public class SinaTopClickNews {
 	public static final String filePath = ".\\top_click_news.txt";
 	public static final String url_prefix = "http://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=";
 	public static final String url_suffix = "&top_show_num=100&top_order=DESC&js_var=all_1_data01";
-	public static final String start_date = "2020-11-01";
-	public static final String end_date = "2020-11-30";
+	public static final String start_date = "2020-10-01";
+	public static final String end_date = "2020-10-30";
 
 	public static void main(String[] args) {
 		DateIncrease();
