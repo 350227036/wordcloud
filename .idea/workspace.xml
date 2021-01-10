@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b8ca86-6c49-442e-9244-67967f3b48aa" name="Default Changelist" comment="">
+    <list default="true" id="36b8ca86-6c49-442e-9244-67967f3b48aa" name="Default Changelist" comment="嘤嘤嘤">
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/bin/cstor/SinaTopClickNews.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/bin/fastjson-1.2.56.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/bin/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/sinanews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/sinanewsjar/fastjson-1.2.56.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/sinanewsjar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/src/cstor/SinaTopClickNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190509101-阿豪/sinanews/top_click_news.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20190509101-阿豪/awsl" beforeDir="false" afterPath="$PROJECT_DIR$/20190509101-阿豪/awsl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +25,7 @@
     <session id="861914065">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -33,11 +43,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="awsl" value="13" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -48,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/20190509101-阿豪/awsl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -75,6 +86,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="422" />
     <option name="y" value="62" />
@@ -83,6 +99,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -92,6 +109,16 @@
             <path>
               <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="20190502111+黄康昌" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="20190502116-小何" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -110,8 +137,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610270538457" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610273707697" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc306\IdeaProjects\wordcloud\20190509101-阿豪" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,27 +167,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610269627092</updated>
-      <workItem from="1610269629466" duration="803000" />
+      <workItem from="1610269629466" duration="2972000" />
     </task>
+    <task id="LOCAL-00001" summary="嘤嘤嘤">
+      <created>1610270445741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270445741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="嘤嘤嘤">
+      <created>1610270643925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270643925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803000" />
+    <option name="totallyTimeSpent" value="2972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="422" y="62" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.34961998" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -206,11 +255,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="嘤嘤嘤" />
+    <option name="LAST_COMMIT_MESSAGE" value="嘤嘤嘤" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/20190509101-阿豪/awsl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
