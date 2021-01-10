@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> origin/master
   <component name="ChangeListManager">
-    <list default="true" id="b8ac0f49-8b7b-49a0-b07b-00e7cf929c13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+<<<<<<< HEAD
+    <list default="true" id="8af69562-d482-4d0c-8ba7-77b75adf7e2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190502114-小成/ll" beforeDir="false" afterPath="$PROJECT_DIR$/20190502114-小成/ll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wordcloud.iml" afterDir="false" />
+=======
+    <list default="true" id="ffea203d-87eb-4c48-81ce-007db8d4675a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1102202307-小陈/sinanews/sinanewsjar/fastjson-1.2.56.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1102202307-小陈/sinanews/sinanewsjar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1102202307-小陈/sinanews/src/cstor/SinaTopClickNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1102202307-小陈/sinanews/top_click_news.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/20190509103-秋/111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20190509103-秋/111.txt" afterDir="false" />
 =======
   <component name="ChangeListManager">
@@ -15,6 +30,9 @@
       <change afterPath="$PROJECT_DIR$/2019050502239+小郭/dd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,14 +43,27 @@
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="861914065">
-      <usages-collector id="statistics.lifecycle.project">
+      <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="txt" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+=======
+          <entry key="PLAIN_TEXT" value="31" />
+>>>>>>> origin/master
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="md" value="1" />
           <entry key="txt" value="1" />
@@ -40,11 +71,24 @@
           <entry key="dd" value="1" />
           <entry key="json" value="1" />
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+          <entry key="ll" value="1" />
+          <entry key="零零" value="1" />
+=======
+          <entry key="java" value="1" />
+          <entry key="md" value="1" />
+>>>>>>> origin/master
+>>>>>>> origin/master
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
           <entry key="Markdown" value="1" />
 =======
           <entry key="JSON" value="1" />
@@ -54,38 +98,66 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="txt" value="15" />
 =======
           <entry key="dd" value="2" />
 >>>>>>> Stashed changes
+=======
+          <entry key="ll" value="6" />
+>>>>>>> origin/master
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="PLAIN_TEXT" value="15" />
 =======
           <entry key="PLAIN_TEXT" value="2" />
 >>>>>>> Stashed changes
+=======
+          <entry key="PLAIN_TEXT" value="6" />
+=======
+          <entry key="JAVA" value="1" />
+          <entry key="Markdown" value="1" />
+>>>>>>> origin/master
+>>>>>>> origin/master
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20190502114-小成/ll">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+=======
     <leaf>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/20190509103-秋/111.txt">
+=======
+        <entry file="file://$PROJECT_DIR$/1102202307-小陈/sinanews/src/cstor/SinaTopClickNews.java">
+>>>>>>> origin/master
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="-1534">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190509103-秋/readme.md">
+        <entry file="file://$PROJECT_DIR$/1102202307-小陈/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -100,20 +172,36 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1102202307-小陈/git操作步骤.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+>>>>>>> origin/master
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190509103-秋/111.txt" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/20190502114-小成/ll" />
+=======
+        <option value="$PROJECT_DIR$/1102202307-小陈/git操作步骤.txt" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
@@ -123,20 +211,34 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
-    <option name="x" value="504" />
-    <option name="y" value="18" />
+    <option name="x" value="256" />
+    <option name="y" value="57" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="width" value="1936" />
+    <option name="height" value="1040" />
+>>>>>>> origin/master
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> origin/master
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,13 +249,40 @@
             <path>
               <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="20190509103-秋" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="20190502114-小成" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+              <item name="1102202307-小陈" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="1102202307-小陈" type="462c0819:PsiDirectoryNode" />
+              <item name="sinanews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="1102202307-小陈" type="462c0819:PsiDirectoryNode" />
+              <item name="sinanews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="1102202307-小陈" type="462c0819:PsiDirectoryNode" />
+              <item name="sinanews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cstor" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> origin/master
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+<<<<<<< HEAD
 =======
   <component name="ProjectFrameBounds" extendedState="6">
 =======
@@ -194,6 +323,8 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -226,13 +357,23 @@
     <property name="aspect.path.notification.shown" value="true" />
 <<<<<<< Updated upstream
 <<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610271407119" />
 =======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610269624033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610271908311" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1102202307-小陈/sinanews" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
 >>>>>>> origin/master
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610270541529" />
 >>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc306\IdeaProjects\wordcloud\1102202307-小陈" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -251,6 +392,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <changelist id="b8ac0f49-8b7b-49a0-b07b-00e7cf929c13" name="Default Changelist" comment="" />
       <created>1610269562369</created>
@@ -266,10 +408,38 @@
       <updated>1610270071936</updated>
       <workItem from="1610270074262" duration="445000" />
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+      <changelist id="8af69562-d482-4d0c-8ba7-77b75adf7e2c" name="Default Changelist" comment="" />
+      <created>1610270898638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610270898638</updated>
+      <workItem from="1610270901160" duration="169000" />
+      <workItem from="1610271096864" duration="22000" />
+      <workItem from="1610271152460" duration="255000" />
+=======
+      <changelist id="ffea203d-87eb-4c48-81ce-007db8d4675a" name="Default Changelist" comment="" />
+      <created>1610269532507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610269532507</updated>
+      <workItem from="1610269534960" duration="2238000" />
+>>>>>>> origin/master
     </task>
+    <task id="LOCAL-00001" summary="添加了gitignore文件，忽略文件的列表">
+      <created>1610270872015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270872015</updated>
+>>>>>>> origin/master
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="505000" />
   </component>
@@ -281,18 +451,40 @@
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="256" y="57" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.23731343" />
+=======
+    <option name="totallyTimeSpent" value="1142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> origin/master
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.48642778" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+>>>>>>> origin/master
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -300,19 +492,51 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> origin/master
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -320,7 +544,22 @@
 <<<<<<< Updated upstream
 <<<<<<< HEAD
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20190509103-秋/readme.md">
+    <entry file="file://$PROJECT_DIR$/20190502114-小成/零零">
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了gitignore文件，忽略文件的列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了gitignore文件，忽略文件的列表" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1102202307-小陈/git操作步骤.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1102202307-小陈/readme.md">
+>>>>>>> origin/master
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -328,8 +567,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190509103-秋/111.txt">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/20190502114-小成/ll">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+=======
+    <entry file="file://$PROJECT_DIR$/1102202307-小陈/sinanews/src/cstor/SinaTopClickNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="19">
           <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
 =======
@@ -346,13 +592,25 @@
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
 >>>>>>> Stashed changes
+=======
+        <state relative-caret-position="-1534">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+>>>>>>> origin/master
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> origin/master
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/master
 </project>
