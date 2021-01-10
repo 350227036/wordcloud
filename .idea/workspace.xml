@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <list default="true" id="5356925c-a695-4fc7-9c73-f599d48d9f50" name="Default Changelist" comment="">
 =======
@@ -11,6 +12,19 @@
       <change afterPath="$PROJECT_DIR$/1102202307-小陈/sinanews/top_click_news.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
 >>>>>>> origin/master
+=======
+    <list default="true" id="370e41e0-4cc3-4941-b3dd-5ffce940a42c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/哈哈/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/bin/cstor/SinaTopClickNews.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/bin/fastjson-1.2.56.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/bin/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/sinanews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/sinanewsjar/fastjson-1.2.56.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/sinanewsjar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/src/cstor/SinaTopClickNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/哈哈/top_click_news.txt" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,6 +36,7 @@
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="861914065">
+<<<<<<< Updated upstream
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="txt" value="31" />
@@ -30,10 +45,17 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
+=======
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           <entry key="md" value="2" />
           <entry key="txt" value="1" />
@@ -41,29 +63,44 @@
           <entry key="java" value="1" />
           <entry key="md" value="1" />
 >>>>>>> origin/master
+=======
+          <entry key="DATA" value="1" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           <entry key="Markdown" value="2" />
+=======
+>>>>>>> Stashed changes
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="md" value="5" />
           <entry key="txt" value="2" />
+=======
+          <entry key="DATA" value="19" />
+          <entry key="txt" value="7" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
 =======
           <entry key="JAVA" value="1" />
           <entry key="Markdown" value="1" />
 >>>>>>> origin/master
+=======
+          <entry key="PLAIN_TEXT" value="26" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
     </session>
@@ -71,6 +108,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/20190509102-芬/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -108,6 +146,12 @@
             <state relative-caret-position="333">
               <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
 >>>>>>> origin/master
+=======
+        <entry file="file://$PROJECT_DIR$/20190509113——沈建华/DATA">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -118,6 +162,7 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
   <component name="IdeDocumentHistory">
@@ -130,6 +175,12 @@
       <list>
         <option value="$PROJECT_DIR$/1102202307-小陈/git操作步骤.txt" />
 >>>>>>> origin/master
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/20190509113——沈建华/DATA" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -140,10 +191,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <option name="x" value="38" />
     <option name="y" value="24" />
     <option name="width" value="1873" />
+=======
+    <option name="x" value="344" />
+    <option name="y" value="56" />
+    <option name="width" value="1400" />
+>>>>>>> Stashed changes
     <option name="height" value="1000" />
 =======
     <option name="x" value="-11" />
@@ -205,9 +262,36 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="哈哈" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610270407902" />
@@ -221,11 +305,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
 >>>>>>> origin/master
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610272417167" />
+>>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< Updated upstream
       <recent name="C:\Users\pc306\IdeaProjects\wordcloud\1102202307-小陈" />
+=======
+      <recent name="C:\Users\pc306\IdeaProjects\wordcloud\20190509113——沈建华" />
+      <recent name="C:\Users\pc306\IdeaProjects\wordcloud\哈哈" />
+>>>>>>> Stashed changes
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,6 +337,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <changelist id="5356925c-a695-4fc7-9c73-f599d48d9f50" name="Default Changelist" comment="" />
       <created>1610269585453</created>
@@ -276,10 +369,27 @@
       <updated>1610270872015</updated>
     </task>
 >>>>>>> origin/master
+=======
+      <changelist id="370e41e0-4cc3-4941-b3dd-5ffce940a42c" name="Default Changelist" comment="" />
+      <created>1610270073022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610270073022</updated>
+      <workItem from="1610270075354" duration="912000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1610270280987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270280987</updated>
+    </task>
+>>>>>>> Stashed changes
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="820000" />
   </component>
@@ -291,12 +401,19 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
 >>>>>>> origin/master
+=======
+    <option name="totallyTimeSpent" value="912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> Stashed changes
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -311,6 +428,14 @@
 >>>>>>> origin/master
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32356134" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -329,6 +454,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -359,10 +485,15 @@
       </map>
     </option>
 >>>>>>> origin/master
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+>>>>>>> Stashed changes
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
   <component name="VcsManagerConfiguration">
@@ -414,6 +545,17 @@
             <element signature="e#917#918#0" expanded="true" />
           </folding>
 >>>>>>> origin/master
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/20190509113——沈建华/DATA">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
