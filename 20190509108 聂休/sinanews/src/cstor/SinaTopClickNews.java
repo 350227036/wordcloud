@@ -16,15 +16,15 @@ import java.util.Date;
  * ©2019 Mr. Tao. All rights reserved.
  *
  * @author TaoZhongYuan
- * @date 2021/1/9
+ * @date 2020/3/17
  */
 public class SinaTopClickNews {
 
 	public static final String filePath = ".\\top_click_news.txt";
 	public static final String url_prefix = "http://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=";
 	public static final String url_suffix = "&top_show_num=100&top_order=DESC&js_var=all_1_data01";
-	public static final String start_date = "2020-09-01";
-	public static final String end_date = "2020-09-30";
+	public static final String start_date = "2020-11-01";
+	public static final String end_date = "2020-11-30";
 
 	public static void main(String[] args) {
 		DateIncrease();
@@ -62,7 +62,7 @@ public class SinaTopClickNews {
 
 	}
 
-	/**sq
+	/**
 	 * 写入文件
 	 * @param content 内容
 	 */
