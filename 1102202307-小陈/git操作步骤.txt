@@ -1,4 +1,4 @@
- ssh-keygen -t rsa -C "350227036@qq.com"
+ssh-keygen -t rsa -C "350227036@qq.com"
 三次回车
 查看密钥
 cat ~/.ssh/id_rsa.pub
@@ -13,8 +13,7 @@ git config --global user.name "kerin"
 git config --global user.email "350227036@qq.com"
 
 检出仓库
-#git clone https://github.com/350227036/wordcloud.git
-idea 配置git使用native配置
+idea 配置git使用native配置 见图2
 git clone git@github.com:350227036/wordcloud.git
 
 进入项目目录
