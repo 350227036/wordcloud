@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wordcloud.iml" filepath="$PROJECT_DIR$/wordcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordcloud.iml" filepath="$PROJECT_DIR$/.idea/wordcloud.iml" />
     </modules>
   </component>
 </project>
